@@ -64,7 +64,7 @@ I am currently a Ph.D. student in the [Faculty of Electrical Information Enginee
 
 
 **KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models**<br>
-Yingshu Li, Zhanyu Wang, **Yunyi Liu†**, Lei Wang, Lingqiao Liu, and Luping Zhou.
+Yingshu Li, Zhanyu Wang, **Yunyi Liu**, Lei Wang, Lingqiao Liu, and Luping Zhou.
 - [Paper](coming soon)\| [Code](coming soon)
   
 
