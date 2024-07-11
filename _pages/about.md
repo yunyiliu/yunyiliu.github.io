@@ -19,7 +19,7 @@ redirect_from:
 
 # **Welcome to My Page!**
 
-I am currently a Ph.D. student in the [Faculty of Electrical Information Engineering](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/luping-zhou.html) at **The University of Sydney** (Supervised by Associate Prof. Luping Zhou and Dr. Dong Yuan). My research interests include Medical VQA, Medical Image Report Generation, and Medical image related LLM.
+I am currently a Ph.D. student in the [Faculty of Electrical Information Engineering](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/luping-zhou.html) at **The University of Sydney** (Supervised by Associate Prof. Luping Zhou and Dr. Dong Yuan). My research interests include Medical VQA, Medical Image Report Generation, and LLM.
 
 <!-- <img src="images/my.jpg" alt="sym" width="50%" style="display: block; margin: 0 auto;"> -->
 
