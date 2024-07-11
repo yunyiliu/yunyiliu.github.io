@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yunyi Liu"
-description              : "Medical VQA, Medical Report Generation, Medical Muti-module LLM "
+description              : "Medical VQA, Medical Report Generation, Medical Multimodal Large Model, LLM "
 repository               : "yunyiliu/yunyiliu.github.io"
 google_scholar_stats_use_cdn : true
 
