@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yunyi Liu"
-  avatar           : "images/YY.JPG"
+  avatar           : "images/YY.jpg"
   bio              : "Ph.D.@ The University of Sydney"
   location         : "ChongQing, China"
   employer         :
