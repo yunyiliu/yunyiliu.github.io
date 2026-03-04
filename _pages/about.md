@@ -53,6 +53,15 @@ I am currently a Ph.D. student in the [Faculty of Electrical Information Enginee
 # 📝 Publications 
 *†represents co-first authors*
 
+**SAT-RRG: LLM-Guided Self-Adaptive Training for Radiology Report Generation with Token-Level Push–Pull Optimization**<br>
+**Yunyi Liu**, Yingshu Li, T. Chen, Lingqiao Liu, Lei Wang and Luping Zhou*<br>
+- The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Denver, U.S., 2026.
+
+**ReFINE: A Reward-Based Framework for Interpretable and Nuanced Evaluation of Radiology Report Generation**<br>
+**Yunyi Liu**, Yingshu Li, Zhanyu Wang, Xinyu Liang, Lingqiao Liu, Lei Wang, and Luping Zhou*<br>
+- The 40th Annual AAAI Conference on Artificial Intelligence (AAAI), Singapore, 2026
+
+
 **A Systematic Evaluation of GPT-4V‘s Multimodal Capability for Medical Image Analysis**<br>
 **Yunyi Liu†**, Yingshu Li, Zhanyu Wang, Xinyu Liang, Lei Wang, Lingqiao Liu, Leyang Cui, Zhaopeng Tu, Longyue Wang, and Luping Zhou<br>
 - [Paper](https://arxiv.org/abs/2310.20381)\| [Code](coming soon)
