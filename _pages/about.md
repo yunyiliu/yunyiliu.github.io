@@ -19,7 +19,7 @@ redirect_from:
 
 # **Welcome to My Page!**
 
-I received my Ph.D. in Computer Engineering from [The University of Sydney](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/luping-zhou.html), supervised by Prof. Luping Zhou, Prof. Lei Wang, and Prof. Lingqiao Liu. My research interests include Medical Visual Question Answering, Radiology Report Generation, and Large Language Models.
+I received my Ph.D. in Computer Engineering from [The University of Sydney](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/luping-zhou.html), supervised by Prof. [Luping Zhou](https://sites.google.com/view/lupingzhou/home), Prof. [Lei Wang](https://sites.google.com/view/lei-hs-wang/about-me), and Prof. [Lingqiao Liu](https://lingqiao-adelaide.github.io/lingqiaoliu.github.io//). My research interests include Medical Visual Question Answering, Radiology Report Generation, and Large Language Models.
 
 <!-- <img src="images/my.jpg" alt="sym" width="50%" style="display: block; margin: 0 auto;"> -->
 
