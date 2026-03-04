@@ -19,7 +19,7 @@ redirect_from:
 
 # **Welcome to My Page!**
 
-I have graduated from the [Faculty of Electrical Information Engineering](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/luping-zhou.html) at **The University of Sydney** (Supervised by Prof. Luping Zhou, Prof. Lei Wang, and Prof. Lingqiao Liu). My research interests include Medical VQA, Medical Image Report Generation, and LLM.
+I received my Ph.D. in Computer Engineering from [The University of Sydney](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/luping-zhou.html), supervised by Prof. Luping Zhou, Prof. Lei Wang, and Prof. Lingqiao Liu. My research interests include Medical Visual Question Answering, Radiology Report Generation, and Large Language Models.
 
 <!-- <img src="images/my.jpg" alt="sym" width="50%" style="display: block; margin: 0 auto;"> -->
 
