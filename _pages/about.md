@@ -25,6 +25,9 @@ I am currently a Ph.D. student in the [Faculty of Electrical Information Enginee
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 Our work **SAT-RRG: LLM-Guided Self-Adaptive Training for Radiology Report Generation with Token-Level Push–Pull Optimization** has been accepted at **CVPR 2026**!
+- *2025.12*: &nbsp;🎉🎉 I have graduated from the University of Sydney!
+- *2025.12*: &nbsp;🎉🎉 Our work **ReFINE: A Reward-Based Framework for Interpretable and Nuanced Evaluation of Radiology Report Generation** has been accepted at **AAAI 2026**!
 - *2024.07*: &nbsp;🎉🎉 Our work **A Systematic Evaluation of GPT-4V‘s Multimodal Capability for Medical Image Analysis** has been accepted at **Meta-Radiology**!
 - *2024.07*: &nbsp;🎉🎉 Our work **MRScore: Evaluating Radiology Report Generation with LLM-based Reward System** has been **Early Accepted** at **MICCAI2024**!
 - *2024.05*: &nbsp;🎉🎉 Our work **KARGEN: Knowledge-enhanced Automated Radiology Report Generation Using Large Language Models** has been **Early Accepted** at **MICCAI2024**!
@@ -87,7 +90,7 @@ Yingshu Li, Zhanyu Wang, **Yunyi Liu**, Lei Wang, Lingqiao Liu, and Luping Zhou.
 
 
 # 📖 Educations
-- *2022.07 - 2025.12(expected)*, Ph.D., Electrical Information Engineering, the University of Sydney, Sydney, A.U.
+- *2022.07 - 2025.12*, Ph.D., Electrical Information Engineering, the University of Sydney, Sydney, A.U.
 
 
 # 💻 Internships
